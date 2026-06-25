@@ -1,7 +1,8 @@
 import random
 #user ko puchenge ki konsa lega?
 #e.g. user ne paper liya
-#AI ko ek list de denge aur random.choice(list) li madad se ek random sign choose karenge
+#Computer ko ek list de denge aur random.choice(list) li madad se ek random sign choose karenge
+#Computer ko mai "ai" se denote kar rha hu for convenience 
 #Signs ko evaluate karenge aur result btaenge
 #while loop ke andar fit kardenge
 
